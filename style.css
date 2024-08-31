@@ -23,7 +23,6 @@ img{
     background-color: black;
 }
 .flex{
-    background-color: blueviolet;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
