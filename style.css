@@ -32,6 +32,7 @@ img{
     height: 600px;
     flex-wrap: wrap;
     background-image: url(img/1.png);
+    background-size: contain;
 }
 .imagem1{
     background-image: url(img/1.png);
