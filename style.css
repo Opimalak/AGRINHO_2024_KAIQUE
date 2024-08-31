@@ -34,8 +34,76 @@ img{
    
 }
 .fundo1{
-     background: var(--background);
      background-image: url(img/1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+.fundo2{
+    background-image: url(img/2.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-color: black;
+}
+.fundo3{
+    background-image: url(img/3.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-color: black;
+}
+.fundo4{
+    background-image: url(img/4.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-color: black;
+}
+.fundo5{
+    background-image: url(img/5.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-color: black;
+}
+.fundo6{
+    background-image: url(img/6.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-color: black;
+}
+.fundo7{
+    background-image: url(img/7.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-color: black;
+}
+.fundo8{
+    background-image: url(img/8.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-color: black;
+}
+.fundo9{
+    background-image: url(img/9.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-color: black;
+}
+.fundo10{
+    background-image: url(img/10.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-color: black;
+}
+.fundo11{
+    background-image: url(img/11.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-color: black;
+}
+.fundo12{
+    background-image: url(img/12.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-color: black;
 }
 .texto{
 margin-top: 107.4%;
@@ -48,8 +116,6 @@ background-color: black;
     --color-neutral-10: #171717;
     --color-neutral-30: #a8a29e;
     --color-neutral-40: #f5f5f5;
-    --background:  background-size: contain background-repeat: no-repeat background-color: black;
- }
 }
 
 * {
