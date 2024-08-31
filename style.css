@@ -33,6 +33,7 @@ img{
     flex-wrap: wrap;
     background-image: url(img/1.png);
     background-size: contain;
+    background-repeat: no-repeat;
 }
 .imagem1{
     background-image: url(img/1.png);
