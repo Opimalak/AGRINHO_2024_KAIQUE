@@ -39,6 +39,10 @@ img{
 .imagem1{
     background-image: url(img/1.png);
 }
+.texto{
+margin-top: 80%;
+}
+
 /*FOOTER*/
 :root {
     --color-neutral-0: #0e0c0c;
