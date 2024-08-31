@@ -19,6 +19,23 @@ img{
     width: 300px;
     height: 300px;
 }
+.fundo__preto{
+    background-color: black;
+}
+.flex{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+.topic{
+    border: solid red;
+    background-color: rgb(124, 124, 124);
+    width: 300px;
+    height: 600px;
+    flex-wrap: wrap;
+}
 /*FOOTER*/
 :root {
     --color-neutral-0: #0e0c0c;
