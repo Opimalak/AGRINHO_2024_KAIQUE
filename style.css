@@ -35,6 +35,9 @@ img{
     height: 600px;
     flex-wrap: wrap;
 }
+.imagem1{
+    background-image: url(img/1.png);
+}
 /*FOOTER*/
 :root {
     --color-neutral-0: #0e0c0c;
