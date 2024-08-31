@@ -35,9 +35,6 @@ img{
     background-size: contain;
     background-repeat: no-repeat;
 }
-.imagem1{
-    background-image: url(img/1.png);
-}
 .texto{
 margin-top: 80%;
 background-color: black;
