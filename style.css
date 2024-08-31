@@ -33,11 +33,8 @@ img{
     flex-wrap: wrap;
    
 }
-.imagem1{
-     background-image: url(img/1.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-color: black;
+.fundo1{
+     background: var(--background);
 }
 .texto{
 margin-top: 107.4%;
@@ -50,6 +47,8 @@ background-color: black;
     --color-neutral-10: #171717;
     --color-neutral-30: #a8a29e;
     --color-neutral-40: #f5f5f5;
+    --background:  background-size: contain background-repeat: no-repeat background-color: black;
+ }
 }
 
 * {
