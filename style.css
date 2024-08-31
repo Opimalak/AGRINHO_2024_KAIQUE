@@ -35,6 +35,7 @@ img{
 }
 .fundo1{
      background: var(--background);
+     background-image: url(img/1.png);
 }
 .texto{
 margin-top: 107.4%;
