@@ -31,7 +31,10 @@ img{
     width: 300px;
     height: 600px;
     flex-wrap: wrap;
-    background-image: url(img/1.png);
+   
+}
+.imagem1{
+     background-image: url(img/1.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-color: black;
