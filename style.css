@@ -34,9 +34,10 @@ img{
     background-image: url(img/1.png);
     background-size: contain;
     background-repeat: no-repeat;
+    background-color: black;
 }
 .texto{
-margin-top: 100%;
+margin-top: 107.4%;
 background-color: black;
 }
 
